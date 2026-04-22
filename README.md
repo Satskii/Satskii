@@ -1,6 +1,8 @@
 # Satskii.exe — *Now with 200% more memes, 0% stability*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=400&color=FF00FF&center=true&vCenter=true&width=1000&lines=MBA+%2B+Dev+%3D+Confusion;Buy+High+Debug+Low;Works+on+my+Machine™;Ferrari+Strategy+%3D+My+Code;Sleep+is+Optional+Sanity+is+Gone" />
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700"/>
+</p>
 
 ---
 
